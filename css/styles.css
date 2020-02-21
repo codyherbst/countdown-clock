@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.numbers {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 140px;
+}
